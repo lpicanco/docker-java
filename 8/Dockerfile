@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER Luiz Picanço "lpicanci@gmail.com"
+MAINTAINER Luiz Picanço "lpicanco@gmail.com"
 
 ENV DEBIAN_FRONTEND noninteractive
 
